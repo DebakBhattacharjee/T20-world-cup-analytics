@@ -6,3 +6,7 @@ In this end-to-end data analytics project for beginners and advanced users, we h
 - We used bright data web scraping to collect data from espncricinfo website.
 - we performed some data transformation and cleaning in pandas.
 - building dashboards in power bi
+
+
+https://github.com/user-attachments/assets/4d8a4b8f-08f7-4abe-865c-1a7973843a4a
+
